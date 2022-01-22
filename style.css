@@ -1,0 +1,19 @@
+.row img{
+    width: 100%;
+}
+
+.footer-c a{
+    color: aliceblue;
+}
+.ty i{
+    color: white;
+    text-decoration: none; 
+    padding: 2px;
+}
+.ty{
+    text-align: center;
+}
+.io a{
+    text-decoration: none;
+    color: white;
+}
